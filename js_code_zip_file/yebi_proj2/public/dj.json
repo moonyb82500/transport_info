@@ -1,0 +1,32 @@
+[
+   {
+      "RANKING":1,
+      "SIG_KOR_NM":"서구",
+      "SIG_KOR_PD":4874.5,
+      "RATIO":33.5
+   },
+   {
+      "RANKING":2,
+      "SIG_KOR_NM":"중구",
+      "SIG_KOR_PD":3546.5,
+      "RATIO":24.4
+   },
+   {
+      "RANKING":3,
+      "SIG_KOR_NM":"대덕구",
+      "SIG_KOR_PD":2459.2,
+      "RATIO":16.9
+   },
+   {
+      "RANKING":4,
+      "SIG_KOR_NM":"유성구",
+      "SIG_KOR_PD":2030.7,
+      "RATIO":14
+   },
+   {
+      "RANKING":5,
+      "SIG_KOR_NM":"동구",
+      "SIG_KOR_PD":1625.8,
+      "RATIO":11.2
+   }
+]

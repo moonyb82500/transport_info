@@ -1,0 +1,32 @@
+[
+   {
+      "RANKING":1,
+      "SIG_KOR_NM":"중구",
+      "SIG_KOR_PD":5422.6,
+      "RATIO":35.8
+   },
+   {
+      "RANKING":2,
+      "SIG_KOR_NM":"남구",
+      "SIG_KOR_PD":4060.1,
+      "RATIO":26.8
+   },
+   {
+      "RANKING":3,
+      "SIG_KOR_NM":"동구",
+      "SIG_KOR_PD":4028.8,
+      "RATIO":26.6
+   },
+   {
+      "RANKING":4,
+      "SIG_KOR_NM":"북구",
+      "SIG_KOR_PD":1341.7,
+      "RATIO":8.9
+   },
+   {
+      "RANKING":5,
+      "SIG_KOR_NM":"울주군",
+      "SIG_KOR_PD":280.9,
+      "RATIO":1.9
+   }
+]

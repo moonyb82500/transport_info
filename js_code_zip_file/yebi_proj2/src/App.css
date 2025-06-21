@@ -1,0 +1,106 @@
+/* src/App.css */
+
+
+body, html, #root, .App {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+
+header {
+  flex: 0 0 auto;
+  background-color: #4f46e5; 
+  color: white;
+  padding: 16px;
+  text-align: left;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+header h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+header p {
+  font-size: 14px;
+  color: #c3cfe5;
+}
+
+
+.main-content {
+  display: flex;
+  flex: 1;
+  height: calc(100% - 60px);
+}
+
+
+.sidebar {
+  width: 250px;
+  background-color: #f3f4f6; 
+  padding: 24px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 5;
+  overflow-y: auto;
+}
+
+
+.sidebar button {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  background-color: white;
+  color: #374151;
+  font-weight: 600;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.sidebar button:hover {
+  background-color: #e5e7eb;
+}
+
+
+.sidebar .color-buttons div {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+}
+
+.sidebar .color-buttons .red { background-color: #f87171; }
+.sidebar .color-buttons .orange { background-color: #fb923c; }
+.sidebar .color-buttons .green { background-color: #4ade80; }
+.sidebar .color-buttons .blue { background-color: #60a5fa; }
+.sidebar .color-buttons .purple { background-color: #a78bfa; }
+
+
+.map-container {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,32 @@
+[
+   {
+      "RANKING":1,
+      "SIG_KOR_NM":"서구",
+      "SIG_KOR_PD":5929.5,
+      "RATIO":34.9
+   },
+   {
+      "RANKING":2,
+      "SIG_KOR_NM":"북구",
+      "SIG_KOR_PD":3557.5,
+      "RATIO":20.9
+   },
+   {
+      "RANKING":3,
+      "SIG_KOR_NM":"남구",
+      "SIG_KOR_PD":3484.7,
+      "RATIO":20.5
+   },
+   {
+      "RANKING":4,
+      "SIG_KOR_NM":"동구",
+      "SIG_KOR_PD":2220.8,
+      "RATIO":13.1
+   },
+   {
+      "RANKING":5,
+      "SIG_KOR_NM":"광산구",
+      "SIG_KOR_PD":1792.5,
+      "RATIO":10.6
+   }
+]
