@@ -21,7 +21,7 @@ function MapWithClustering() {
         };
 
         await loadScript(
-          `https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=on1ramd4k9`
+          `https://openapi.map.naver.com/openapi/v3/maps.js API_KEY`
         );
 
         initializeMap();
